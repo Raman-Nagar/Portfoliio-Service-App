@@ -1,4 +1,4 @@
-# My Portfolio App
+# My Portfolio Service App
 
 This is the official frontend implementation of the **Portfolio App** website, built with **Next.js**, **JavaScript**, and **Tailwind CSS**
 
